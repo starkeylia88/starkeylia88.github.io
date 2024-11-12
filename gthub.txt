@@ -3,5 +3,5 @@
   "applovin_inter": "3ca8cf57db99e76d",
   "applovin_inter_splash": "34ce7c015b4b0b5a",
   "applovin_appopen": "396ad4604c998f2f",
-  "applovin_apikey": "bvstfk/JNpIRZjpopp7+eK1qtFBZzSqBJq+SR0lQnT0="
+  "applovin_apikey": "bvstfk/JNpIRZjpopp7+eGj5kDZ3um8yoPe/kphl+Q4="
 }
